@@ -1,1 +1,2 @@
-# PetStore_API_Using_Rest_Assured
+# **PetStore API Using Rest Assured**
+This project is focused on testing and automating the RESTful API endpoints of the PetStore web application.
