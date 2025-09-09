@@ -6,4 +6,8 @@ This project is focused on testing and automating the RESTful API endpoints of t
 
 ## Technologies Used
 - Java
+- Rest Assured
+- TestNG / JUnit
+- Maven
+- Extend Reports
 
