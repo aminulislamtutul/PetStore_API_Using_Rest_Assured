@@ -10,4 +10,5 @@ This project is focused on testing and automating the RESTful API endpoints of t
 - TestNG / JUnit
 - Maven
 - Extend Reports
+## Requirements
 
