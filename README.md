@@ -11,4 +11,5 @@ This project is focused on testing and automating the RESTful API endpoints of t
 - Maven
 - Extend Reports
 ## Requirements
+- Java 8+
 
