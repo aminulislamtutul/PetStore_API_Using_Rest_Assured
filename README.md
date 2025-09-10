@@ -12,4 +12,6 @@ This project is focused on testing and automating the RESTful API endpoints of t
 - Extend Reports
 ## Requirements
 - Java 8+
+- Gradle
+- Internet access
 
