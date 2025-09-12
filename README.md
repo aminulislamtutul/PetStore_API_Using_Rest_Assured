@@ -14,4 +14,5 @@ This project is focused on testing and automating the RESTful API endpoints of t
 - Java 8+
 - Gradle
 - Internet access
+## Steps to Run
 
