@@ -15,4 +15,8 @@ This project is focused on testing and automating the RESTful API endpoints of t
 - Gradle
 - Internet access
 ## Steps to Run
+1. Clone the repository:
+```console 
+https://github.com/aminulislamtutul/Daily_Finance_API_Automation_With_Rest_Assured.git
+```
 
