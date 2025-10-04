@@ -19,4 +19,5 @@ This project is focused on testing and automating the RESTful API endpoints of t
 ```console 
 https://github.com/aminulislamtutul/PetStore_API_Using_Rest_Assured.git
 ```
+## Extent Reports
 
