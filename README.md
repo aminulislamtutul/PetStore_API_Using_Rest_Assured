@@ -22,4 +22,5 @@ https://github.com/aminulislamtutul/PetStore_API_Using_Rest_Assured.git
 ## Extent Reports
 - Extent Reports → `reports/`
 ## Allure Reports
+- Allure Reports → `allure-report`
 
