@@ -8,7 +8,6 @@ This project is focused on testing and automating the RESTful API endpoints of t
 - User
 - Store
 - Pet
-
 ## Technologies Used
 - Java
 - Rest Assured
