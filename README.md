@@ -6,6 +6,8 @@ This project is focused on testing and automating the RESTful API endpoints of t
 
 ## Features Covered in Postman Collection
 - User
+- Store
+- Pet
 
 ## Technologies Used
 - Java
