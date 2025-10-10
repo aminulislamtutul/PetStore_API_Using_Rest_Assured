@@ -23,6 +23,11 @@ This project is focused on testing and automating the RESTful API endpoints of t
 ```console 
 https://github.com/aminulislamtutul/PetStore_API_Using_Rest_Assured.git
 ```
+2. Generate Allure report
+```console
+allure generate allure-results --clean -o allure-report
+```
+   
 ## Extent Reports
 - Extent Reports → `reports/`
 ## Allure Reports
