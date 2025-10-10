@@ -27,7 +27,10 @@ https://github.com/aminulislamtutul/PetStore_API_Using_Rest_Assured.git
 ```console
 allure generate allure-results --clean -o allure-report
 ```
-   
+3. Serve the Allure report in the browser
+```console
+allure serve allure-results
+```   
 ## Extent Reports
 - Extent Reports → `reports/`
 ## Allure Reports
