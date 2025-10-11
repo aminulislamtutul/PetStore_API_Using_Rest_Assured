@@ -33,6 +33,8 @@ allure serve allure-results
 ```   
 ## Extent Reports
 - Extent Reports → `reports/`
+<img width="960" height="422" alt="Screenshot 2025-10-11 191310" src="https://github.com/user-attachments/assets/f783149a-b213-476f-9f73-101799f76ee2" />
+
 ## Allure Reports
 - Allure Reports → `allure-report`
 
